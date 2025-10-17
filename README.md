@@ -6,13 +6,23 @@
 Education
 
 ## Proposed Idea and Solution:
-EduAssist is an AI-based educational support system that helps students and teachers by generating personalized learning materials, summaries, and quizzes using generative AI. It simplifies complex topics, enhances engagement, and promotes effective self-learning through adaptive content recommendations.
+EduAssist is an AI-powered educational platform designed to make learning easier and more personalized. It uses generative AI to create study materials, quizzes, and simplified explanations for complex topics. The platform helps students learn faster and assists teachers with automated content creation.
 
-## Key Features:
+## Objective:
+To enhance the quality of education through intelligent automation, improving engagement and accessibility for learners.
+
+## Key Features (Planned):
 - AI-generated study notes and explanations  
-- Automatic quiz and assignment creation  
+- Automatic quiz and question paper generation  
 - Personalized learning recommendations  
-- Interactive chatbot for student queries  
+- Chatbot for instant student support  
+- Dashboard for teachers to manage and share materials  
 
-## Goal:
-To make learning more personalized, efficient, and accessible using AI-driven automation in education.
+## Tech Stack (Planned):
+- Python, Streamlit / React (Frontend)  
+- OpenAI / Hugging Face Models (for Generative AI)  
+- SQLite / Firebase (for Data Storage)  
+- Scikit-learn / Transformers (for AI features)
+
+## Hackathon:
+Quantum Quest 24HR Hackathon – Round 1 (October 16, 2025)
